@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Latihan Storage</string>
+    <string name="buat_file">BUAT FILE</string>
+    <string name="ubah_file">UBAH FILE</string>
+    <string name="baca_file">BACA FILE</string>
+    <string name="hapus_file">HAPUS FILE</string>
+    <string name="hasil_baca_file">Hasil Baca File</string>
+    <string name="external_storage">External Storage</string>
+    <string name="internal_storage">Internal Storage</string>
+    <string name="latihan_persistance">Latihan Persistance</string>
+</resources>

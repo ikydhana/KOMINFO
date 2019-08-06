@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Puzzle Huruf</string>
+    <string name="m">M</string>
+    <string name="l">L</string>
+    <string name="j">J</string>
+    <string name="k">K</string>
+    <string name="i">I</string>
+    <string name="e">E</string>
+    <string name="f">F</string>
+    <string name="g">G</string>
+    <string name="h">H</string>
+    <string name="o">O</string>
+    <string name="d">D</string>
+    <string name="n">N</string>
+    <string name="b">B</string>
+    <string name="c">C</string>
+    <string name="a">A</string>
+    <string name="game_puzzle_huruf">Game Puzzle Huruf</string>
+    <string name="ulangi">Ulangi</string>
+    <string name="keluar">Keluar</string>
+</resources>

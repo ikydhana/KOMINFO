@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyLibrary</string>
+    <string name="enter_name">Enter Name to store in SQLite</string>
+    <string name="name">Enter Name</string>
+    <string name="store">STORE</string>
+    <string name="get_all">Get All Names FROM SQLITE</string>
+</resources>

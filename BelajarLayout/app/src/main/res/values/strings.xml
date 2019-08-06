@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">BelajarLayout</string>
+    <string name="open">Open...</string>
+    <string name="ctrl_o">Ctrl-O</string>
+    <string name="save">Save...</string>
+    <string name="ctrl_s">Ctrl-S</string>
+    <string name="save_as">Save As...</string>
+    <string name="ctrl_shift_s">Ctrl-Shift-S</string>
+    <string name="input">Import...</string>
+    <string name="output">Export...</string>
+    <string name="ctrl_e">Ctrl-E</string>
+    <string name="exit">Quit</string>
+    <string name="button">BUTTON</string>
+    <string name="button">BUTTON</string>
+    <string name="tx0">0</string>
+    <string name="name">Masukkan nama anda</string>
+    <string name="to">To</string>
+    <string name="subject">Subject</string>
+    <string name="message">Message</string>
+    <string name="send">Send</string>
+    <string name="reminder">Reminder</string>
+    <string name="done">DONE</string>
+    <string name="tv1">TextView</string>
+    <string name="tv2">TextView</string>
+    <string name="tv3">TextView</string>
+</resources>

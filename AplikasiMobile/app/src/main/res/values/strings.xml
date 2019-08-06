@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Aplikasi Mobile</string>
+    <string name="name">Masukkan Nama Anda</string>
+    <string name="show">TAMPILKAN 1</string>
+    <string name="hint">Masukkan Nama Anda</string>
+    <string name="show2">TAMPILKAN 2</string>
+    <string name="input_mahasiswa">INPUT MAHASISWA</string>
+    <string name="phone">Phone</string>
+    <string name="alamat">Alamat</string>
+    <string name="nama">Nama</string>
+    <string name="nim">NIM</string>
+    <string name="clear">CLEAR</string>
+    <string name="tampilkan">TAMPILKAN</string>
+</resources>
